@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>Aditya Aman<b></h1>
+<h1 align="center">Hey Everyone...! 👋, I'm <b>Aditya Aman<b></h1>
 <h3 align="center">A Bachelor of Computer Application Student passionate FullStack Developer</h3>
 
 
