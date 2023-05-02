@@ -39,4 +39,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaman07&" alt="adityaaman07" /></p>
 
-<h3 align="center">Thanks for Visting.</h3>
+<h3 align="center">Thanks for Visiting.</h3>
