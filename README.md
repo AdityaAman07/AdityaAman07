@@ -6,7 +6,7 @@
 <hr/>
 <p align="center">&</p>
 <hr/>
-<h3 align="center">A Bachelor of Computer Application Student passionate Data Analyst from India</h3>
+<h3 align="center">A Bachelor of Computer Application Student passionate Data Analyst</h3>
 
 ![what-is-data-analyst](https://user-images.githubusercontent.com/121214714/234844329-3a3fd6b6-251a-4d30-a4da-ad502ef3b7c7.jpg)
 
